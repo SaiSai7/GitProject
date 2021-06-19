@@ -1,0 +1,27 @@
+﻿生成启动时间为 2020/7/5 0:15:48。
+     1>项目“E:\C\C语言就业班\C语言基础第一天\ConsoleApplication2\ConsoleApplication2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\VS2015\vs2015位置\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "day0105-堆栈区的理解.cpp" "day0107-指针铁律1.cpp"
+         day0105-堆栈区的理解.cpp
+         day0107-指针铁律1.cpp
+     1>day0107-指针铁律1.cpp(12): warning C4101: “p2”: 未引用的局部变量
+       Link:
+         F:\VS2015\vs2015位置\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C\C语言就业班\C语言基础第一天\Release\C-Basic-FirstDay.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\C\C语言就业班\C语言基础第一天\Release\C-Basic-FirstDay.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C\C语言就业班\C语言基础第一天\Release\C-Basic-FirstDay.lib" /MACHINE:X86 /SAFESEH "Release\day0101-学员学习的标准.obj"
+         "Release\day0102-数据类型本质分析.obj"
+         "Release\day0103-变量的本质分析.obj"
+         "Release\day0104-静态存储区的理解.obj"
+         "Release\day0105-堆栈区的理解.obj"
+         "Release\day0106-栈的属性检测.obj"
+         "Release\day0107-指针铁律1.obj"
+         正在生成代码
+     1>e:\c\c语言就业班\c语言基础第一天\consoleapplication2\day0105-堆栈区的理解.cpp(26): warning C4172: 返回局部变量或临时变量的地址: buf
+         3 of 7 functions (42.9%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         已完成代码的生成
+         ConsoleApplication2.vcxproj -> E:\C\C语言就业班\C语言基础第一天\Release\C-Basic-FirstDay.exe
+     1>已完成生成项目“E:\C\C语言就业班\C语言基础第一天\ConsoleApplication2\ConsoleApplication2.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:04.18
