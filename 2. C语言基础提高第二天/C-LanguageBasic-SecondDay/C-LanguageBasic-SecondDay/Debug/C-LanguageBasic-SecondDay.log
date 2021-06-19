@@ -1,0 +1,56 @@
+﻿生成启动时间为 2020/9/24 23:01:38。
+     1>项目“E:\C\C语言就业班\2. C语言基础提高第二天\C-LanguageBasic-SecondDay\C-LanguageBasic-SecondDay\C-LanguageBasic-SecondDay.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         F:\VS2015\installation location\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "day0201-习题1-野指针.cpp" "day0202-指针铁律1强化.cpp" "day0203-间接赋值的技术推演.cpp" "day0204-指针的输入输出特性.cpp" "day0205-字符串的基本操作.cpp" "day0206-一级指针内存模型建立.cpp" "day0207-字符串做函数参数.cpp" "day0208-项目开发字符串模型strstr-while.cpp" "day0209-两头堵模型.cpp" "day0210-字符串反转.cpp" "day0211-考试题01.cpp" "day0212-考试题02.cpp"
+         day0212-考试题02.cpp
+         day0211-考试题01.cpp
+         day0210-字符串反转.cpp
+         day0209-两头堵模型.cpp
+         day0208-项目开发字符串模型strstr-while.cpp
+         day0207-字符串做函数参数.cpp
+         day0206-一级指针内存模型建立.cpp
+         day0205-字符串的基本操作.cpp
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0205-字符串的基本操作.cpp(72): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0205-字符串的基本操作.cpp(81): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0205-字符串的基本操作.cpp(89): warning C4018: “<”: 有符号/无符号不匹配
+         day0204-指针的输入输出特性.cpp
+         day0203-间接赋值的技术推演.cpp
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0203-间接赋值的技术推演.cpp(71): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0203-间接赋值的技术推演.cpp(77): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0203-间接赋值的技术推演.cpp(84): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0203-间接赋值的技术推演.cpp(90): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0203-间接赋值的技术推演.cpp(96): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0203-间接赋值的技术推演.cpp(100): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0203-间接赋值的技术推演.cpp(104): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+         day0202-指针铁律1强化.cpp
+         day0201-习题1-野指针.cpp
+         正在生成代码...
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0204-指针的输入输出特性.cpp(59): warning C4715: “main08”: 不是所有的控件路径都返回值
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0207-字符串做函数参数.cpp(98): warning C4715: “CopyStr_06”: 不是所有的控件路径都返回值
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0207-字符串做函数参数.cpp(119): warning C4715: “CopyStr_06_good”: 不是所有的控件路径都返回值
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0208-项目开发字符串模型strstr-while.cpp(108): warning C4715: “main18”: 不是所有的控件路径都返回值
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0209-两头堵模型.cpp(156): warning C4715: “main20”: 不是所有的控件路径都返回值
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0209-两头堵模型.cpp(183): warning C4715: “main21”: 不是所有的控件路径都返回值
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0210-字符串反转.cpp(69): warning C4715: “main23”: 不是所有的控件路径都返回值
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0211-考试题01.cpp(77): warning C4715: “main25”: 不是所有的控件路径都返回值
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0211-考试题01.cpp(125): warning C4715: “main26”: 不是所有的控件路径都返回值
+     1>e:\c\c语言就业班\2. c语言基础提高第二天\c-languagebasic-secondday\c-languagebasic-secondday\day0211-考试题01.cpp(172): warning C4715: “main27”: 不是所有的控件路径都返回值
+       Link:
+         F:\VS2015\installation location\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C\C语言就业班\2. C语言基础提高第二天\C-LanguageBasic-SecondDay\Debug\C-LanguageBasic-SecondDay.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\C\C语言就业班\2. C语言基础提高第二天\C-LanguageBasic-SecondDay\Debug\C-LanguageBasic-SecondDay.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C\C语言就业班\2. C语言基础提高第二天\C-LanguageBasic-SecondDay\Debug\C-LanguageBasic-SecondDay.lib" /MACHINE:X86 "Debug\day0201-习题1-野指针.obj"
+         "Debug\day0202-指针铁律1强化.obj"
+         "Debug\day0203-间接赋值的技术推演.obj"
+         "Debug\day0204-指针的输入输出特性.obj"
+         "Debug\day0205-字符串的基本操作.obj"
+         "Debug\day0206-一级指针内存模型建立.obj"
+         "Debug\day0207-字符串做函数参数.obj"
+         "Debug\day0208-项目开发字符串模型strstr-while.obj"
+         "Debug\day0209-两头堵模型.obj"
+         "Debug\day0210-字符串反转.obj"
+         "Debug\day0211-考试题01.obj"
+         "Debug\day0212-考试题02.obj"
+         C-LanguageBasic-SecondDay.vcxproj -> E:\C\C语言就业班\2. C语言基础提高第二天\C-LanguageBasic-SecondDay\Debug\C-LanguageBasic-SecondDay.exe
+     1>已完成生成项目“E:\C\C语言就业班\2. C语言基础提高第二天\C-LanguageBasic-SecondDay\C-LanguageBasic-SecondDay\C-LanguageBasic-SecondDay.vcxproj”(Rebuild 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.87
